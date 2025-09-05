@@ -71,7 +71,7 @@ O sistema foi desenvolvido como uma **prova de conceito (POC)** para demonstrar 
 
 ### <bold>Segunda opção:</bold>
 <a href="https://novaes11.github.io/SolveTehc.ai-project/">
-  Acesse aqui o deploy no git pages.
+  🌐 Acesse aqui o deploy no git pages.
 </a>
 <br/> 
 
