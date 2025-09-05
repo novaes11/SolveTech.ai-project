@@ -1,4 +1,4 @@
-# 🩺 IA Diagnóstico – Hipertensão & Diabetes
+# 🩺 IA Diagnóstico – Hipertensão & Diabetes (Desenvolv. em processo)
 
 Este projeto é um **dashboard médico interativo** focado em **hipertensão e diabetes**, utilizando **gráficos, simulações e inteligência artificial mockada** para auxiliar na análise clínica de pacientes.  
 O sistema foi desenvolvido como uma **prova de conceito (POC)** para demonstrar como a tecnologia pode apoiar profissionais de saúde em diagnósticos e acompanhamento.
