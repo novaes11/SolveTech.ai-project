@@ -53,21 +53,6 @@ O sistema foi desenvolvido como uma **prova de conceito (POC)** para demonstrar 
 └── README.md # Documentação<br/>
 
 
-## 🖼️ Screenshots
-
-### 🔹 Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### 🔹 Lista de Pacientes
-![Pacientes](screenshots/pacientes.png)
-
-### 🔹 Detalhes de Paciente
-![Detalhes do Paciente](screenshots/detalhes-paciente.png)
-
-### 🔹 Análise de Correlações
-![Correlações](screenshots/correlacoes.png)
-
----
 
 ## 🚀 Como Executar
 ### <bold>Primeira opção:</bold>
