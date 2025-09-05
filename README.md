@@ -69,7 +69,7 @@ O sistema foi desenvolvido como uma **prova de conceito (POC)** para demonstrar 
     ⚠️ O projeto não depende de servidor backend. Basta abrir o arquivo no navegador.
 
 ### <bold>Segunda opção:</bold>
-<a href="https://novaes11.github.io/SolveTehc.ai-project/">
+<a href="[https://novaes11.github.io/SolveTehc.ai-project/](https://novaes11.github.io/SolveTech.ai-project/)">
   🌐 Acesse aqui o deploy no git pages.
 </a>
 <br/> 
