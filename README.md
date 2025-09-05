@@ -56,7 +56,7 @@ O sistema foi desenvolvido como uma **prova de conceito (POC)** para demonstrar 
 
 
 ## 🚀 Como Executar
-
+# <bold>Primeira opção:</bold>
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/ia-diagnostico.git
@@ -69,8 +69,10 @@ O sistema foi desenvolvido como uma **prova de conceito (POC)** para demonstrar 
 
     ⚠️ O projeto não depende de servidor backend. Basta abrir o arquivo no navegador.
 
-
-
+<bold>Segunda opção:</bold>
+<a href="">
+  Acesse aqui o deploy no git pages.
+</a>
 ## 👨‍👩‍👧‍👦 Pacientes Mockados
 
   - Maria Silva – risco moderado
